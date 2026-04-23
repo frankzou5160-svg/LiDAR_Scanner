@@ -85,9 +85,12 @@ python PyStuff/Plot.py
 - Left panel — live polar plot of the current sweep building in real time
 - Right panel — completed 2D Cartesian map of the last full sweep with distance rings
 - Invalid readings (out of range, weak signal) are transmitted as distance `0` and skipped by the visualizer
-[![Watch Test_Box]([https://youtube.com](https://drive.google.com/file/d/1pvvdbFVxaCZRf6Azi6ZIid-OlKYKUEdy/view?usp=sharing))]([https://youtube.com](https://drive.google.com/file/d/1pvvdbFVxaCZRf6Azi6ZIid-OlKYKUEdy/view?usp=sharing))
-[![Watch Test_Can_Board](https://drive.google.com/file/d/1UlSf4U0Xcj4iSGjaJmbnd8ghX0Z0wEgw/view?usp=sharing)](https://drive.google.com/file/d/1UlSf4U0Xcj4iSGjaJmbnd8ghX0Z0wEgw/view?usp=sharing)
+  
+## Demo Videos
 
+[▶ Watch Test Box Scan](https://drive.google.com/file/d/1pvvdbFVxaCZRf6Azi6ZIid-OlKYKUEdy/view?usp=sharing)
+
+[▶ Watch Test Can Board Scan](https://drive.google.com/file/d/1UlSf4U0Xcj4iSGjaJmbnd8ghX0Z0wEgw/view?usp=sharing)
 
 ---
 
