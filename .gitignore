@@ -12,7 +12,7 @@ Drivers/
 .mxproject
 *.launch
 *Debug.launch
-*.id
+
 
 # Binary/map files
 *.elf
