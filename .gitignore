@@ -1,0 +1,24 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# Auto-generated drivers (CubeIDE regenerates these)
+Drivers/
+
+# CubeIDE project settings
+.settings/
+.cproject
+.project
+.mxproject
+*.launch
+
+# Binary/map files
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Python
+__pycache__/
+*.pyc
